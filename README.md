@@ -36,7 +36,7 @@
 | ---------------------------------------- | -----------------------------------------------------------: | -----------------------------------------------------------: | -----------------------------------------------------------: | ---------------------------------: | --------------------------------------------------: | ------------------------------------------------------------ |
 | Bondtech gears  (1.75mm with 20mm shaft) | [29,50€](http://lecktor.com/en/extruders/136-bondtech-drivegear-kit-17550.html) |                                                              | [12,90€](https://fillment3d.pt/loja/produtos/extrusor/engrenagens/pack-bondtech-dual-gear-1-75mm-clone/) |                                    | [15,15€](http://s.click.aliexpress.com/e/_d8ZWhe6) | You can use clones,  as long as they are note crappy Chinese ones. |
 | 50mm PTFE Tube                           |                                                              |                                                              | [0,30€](https://fillment3d.pt/loja/produtos/extrusor/unioes-pneumatico-ptfe/tubo-de-ptfe-10cm-uni/) |                                    |                                                     |                                                              |
-| 3mm Nylon  cable - 500mm                 |                                                              |                                                              |                                                              |                                    |                                                     | Search for 2,85mm  filament sample or cleaning filament from a local store. |
+| 3mm Nylon  cable - 500mm                 |                                                              |                                                              |                                                              |                                    |                                                     | Search for 2,85mm  filament sample or cleaning filament from a local store or buy some [3mm lawn mower nylon cord](https://www.leroymerlin.pt/Produtos/Jardim/Maquinas-de-jardim/Acessorios-de-maquinas/Acessorios-para-rocadoras/WPR_REF_81946355). |
 | Hotend Fan  (40x40x10mm - 24v)           |                                                              |                                                              |                                                              | [10,90€](https://amzn.to/2TN1ZKI) |                                                     | Use Sunon or  Mecatronics fans otherwise it will be hard to use the same firmware/slicer  settings. |
 | Nozzle Fan (5015 - 24v)                  |                                                              |                                                              |                                                              |                                    |  [8,83€](http://s.click.aliexpress.com/e/_d7mjigR) | Use Sunon or  Mecatronics fans otherwise it will be hard to use the same firmware/slicer  settings. |
 | E3D V6 Hotend  - 1.75mm                  | [59,95€](http://lecktor.com/en/extruders/153-147-hotend-v6.html#/82-wattage-30w) | [72,95€](https://zaribo.com/home/109-original-e3d-hotend.html) | [18,16€](https://fillment3d.pt/loja/produtos/extrusor/kit-extrusor/full-kit-e3d-v6-universal-clone-1-75mm/) |                                    | [11,16€](http://s.click.aliexpress.com/e/_dY0gmoS) | Make sure that your kit have all the parts listed below.     |
@@ -54,7 +54,6 @@
 | E3D Brass  Nozzles - V6              | [6,50€](http://lecktor.com/en/extruders/210-brass-nozzle-v6-175mm-x-040mm.html) |                                                              |                                                              | [10,00€](https://amzn.to/3gkU3cn) |           [4,21€](http://s.click.aliexpress.com/e/_d65zdWS) |
 
 ###### Section Total (with best parts): 109,48€
-
 ###### Section Total (with best price): 44.09€
 
 
@@ -102,22 +101,38 @@
 
 ###### Section Total: 11,49€
 
-###### 
 
-# 7. Other Parts
+# 7. Build plates
 
-| Part                                                |                                                      Lecktor |                                                       Zaribo | Aliexpress | Notes                                                       |
-| --------------------------------------------------- | -----------------------------------------------------------: | -----------------------------------------------------------: | ---------: | ----------------------------------------------------------- |
-| 25x Zip ties  2.5x100mm                             |                                                              |                                                              |            | 6x for extruder \| 4x  for Y rods \| 15x for cable managent |
-| Textile Cable  Sleeve Set Prusa MK3                 | [4,95€](http://lecktor.com/en/cables-connectors/122-textile-wrap-sleeve-set.html) |                                                              |            | 1x 490x13mm for extruder \| 2x 300x5mm for bed  and x motor |
-| Original  Thekkiinngg Powder-Coated Spring Sheet V4 |                                                              | [49,50€](https://zaribo.com/home/190-original-thekkiinngg-powder-coated-spring-sheet-v4.html) |            |                                                             |
+| Part                                                     |                                                       Zaribo |                                               Aliexpress | Notes                                                        |
+| -------------------------------------------------------- | -----------------------------------------------------------: | -------------------------------------------------------: | ------------------------------------------------------------ |
+| Original  Thekkiinngg Powder-Coated Spring Sheet V4      | [49,50€](https://zaribo.com/home/190-original-thekkiinngg-powder-coated-spring-sheet-v4.html) |                                                          | Highly recommended                                           |
+| FYSETC Double Sided Textured PEI Spring Steel Sheet      |                                                              |       [21,93€](http://s.click.aliexpress.com/e/_d7JLXLo) | Not the best one, but cheap.                                 |
+| Trianglelab Double Sided Textured PEI Spring Steel Sheet |                                                              | [38,02€](http://s.click.aliexpress.com/e/_BfiHWxru<br/>) | Better than FYSETC, but not as good as Thekkiinngg.          |
+| MK3 Spring Steel Plate                                   |                                                              |       [10,72€](http://s.click.aliexpress.com/e/_dZIoHru) | This is just the Steel Plate. You will need to source 2x PEI Stickers. |
+| MK52 PEI for Steel Sheet                                 |                                                              | [13,50€](https://zaribo.com/home/71-mk42-pei-sheet.html) | This is just the sticker. You will need one sticker for each side and a Spring Steel Plate. |
+| MK52 Buildplate Black Sticker Sheet                      |                                                              |        [3,83€](http://s.click.aliexpress.com/e/_dSRffaI) | Not the best sticker, but works fine with PLA and not medium size objects. |
+*Note: You cannot print directly to the heated bed. You will need a "Textured Spring Steel Sheet" or a "Spring Steel Sheet" and two stickers.*
 
+
+
+###### Section Total (with best textured plate): 49,50€
+###### Section Total (with best price): 18.38€
+
+
+
+
+# 8. Other Required Parts
+
+| Part                               |                                                      Lecktor |                                                   Aliexpress | Notes                                                        |
+| ---------------------------------- | -----------------------------------------------------------: | -----------------------------------------------------------: | ------------------------------------------------------------ |
+| 25x Zip ties 2.5x100mm             |                                                              |            [2,15€](http://s.click.aliexpress.com/e/_dTu8Hwq) | 6x for extruder \| 4x  for Y rods \| 15x for cable management |
+| Textile Cable Sleeve Set Prusa MK3 | [4,95€](http://lecktor.com/en/cables-connectors/122-textile-wrap-sleeve-set.html) | [2,62€](http://s.click.aliexpress.com/e/_dWuGrzU<br/>) + [2,54€](http://s.click.aliexpress.com/e/_d6W5PRg) | 1x 490x13mm for extruder + 2x 300x5mm for bed and x moto     |
 ###### Section Total: 54,45€
 
 
 
 # Totals
 
-| Best Parts Total: | 730,88€ |
-| ----------------: | -------- |
-| Best Price Total: | 655,38€ |
+###### Best Parts Total:  730,88€
+###### Best Price Total:  624,26€
