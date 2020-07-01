@@ -41,7 +41,7 @@
 | Nozzle Fan (5015 - 24v)                  |                                                              |                                                              |                                                              |                                    |  [8,83€](http://s.click.aliexpress.com/e/_d7mjigR) | Use Sunon or  Mecatronics fans otherwise it will be hard to use the same firmware/slicer  settings. |
 | E3D V6 Hotend  - 1.75mm                  | [59,95€](http://lecktor.com/en/extruders/153-147-hotend-v6.html#/82-wattage-30w) | [72,95€](https://zaribo.com/home/109-original-e3d-hotend.html) | [18,16€](https://fillment3d.pt/loja/produtos/extrusor/kit-extrusor/full-kit-e3d-v6-universal-clone-1-75mm/) |                                    | [11,16€](http://s.click.aliexpress.com/e/_dY0gmoS) | Make sure that your kit have all the parts listed below.     |
 
-#### If you buy your Hotend in parts:
+#### If you prefer to buy your E3D V6 Hotend in parts:
 
 | Part                                 |                                                      Lecktor |                                                       Zaribo |                                                Fillment3d.pt |                          Amazon.es |                                                  AlliExpress |
 | ------------------------------------ | -----------------------------------------------------------: | -----------------------------------------------------------: | -----------------------------------------------------------: | ---------------------------------: | -----------------------------------------------------------: |
