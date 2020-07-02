@@ -102,7 +102,7 @@
 ###### Section Total: 11,49€
 
 
-# 7. Build plates
+# 7. Buildplates
 
 | Part                                                     |                                                       Zaribo |                                               Aliexpress | Notes                                                        |
 | -------------------------------------------------------- | -----------------------------------------------------------: | -------------------------------------------------------: | ------------------------------------------------------------ |
@@ -110,7 +110,7 @@
 | FYSETC Double Sided Textured PEI Spring Steel Sheet      |                                                              |       [21,93€](http://s.click.aliexpress.com/e/_d7JLXLo) | Not the best one, but cheap.                                 |
 | Trianglelab Double Sided Textured PEI Spring Steel Sheet |                                                              | [38,02€](http://s.click.aliexpress.com/e/_BfiHWxru<br/>) | Better than FYSETC, but not as good as Thekkiinngg.          |
 | MK3 Spring Steel Plate                                   |                                                              |       [10,72€](http://s.click.aliexpress.com/e/_dZIoHru) | This is just the Steel Plate. You will need to source 2x PEI Stickers. |
-| MK52 PEI for Steel Sheet                                 |                                                              | [13,50€](https://zaribo.com/home/71-mk42-pei-sheet.html) | This is just the sticker. You will need one sticker for each side and a Spring Steel Plate. |
+| MK52 PEI for Steel Sheet                                 |     [13,50€](https://zaribo.com/home/71-mk42-pei-sheet.html) |                                                          | This is just the sticker. You will need one sticker for each side and a Spring Steel Plate. |
 | MK52 Buildplate Black Sticker Sheet                      |                                                              |        [3,83€](http://s.click.aliexpress.com/e/_dSRffaI) | Not the best sticker, but works fine with PLA and not medium size objects. |
 *Note: You cannot print directly to the heated bed. You will need a "Textured Spring Steel Sheet" or a "Spring Steel Sheet" and two stickers.*
 
@@ -127,7 +127,7 @@
 | Part                               |                                                      Lecktor |                                                   Aliexpress | Notes                                                        |
 | ---------------------------------- | -----------------------------------------------------------: | -----------------------------------------------------------: | ------------------------------------------------------------ |
 | 25x Zip ties 2.5x100mm             |                                                              |            [2,15€](http://s.click.aliexpress.com/e/_dTu8Hwq) | 6x for extruder \| 4x  for Y rods \| 15x for cable management |
-| Textile Cable Sleeve Set Prusa MK3 | [4,95€](http://lecktor.com/en/cables-connectors/122-textile-wrap-sleeve-set.html) | [2,62€](http://s.click.aliexpress.com/e/_dWuGrzU<br/>) + [2,54€](http://s.click.aliexpress.com/e/_d6W5PRg) | 1x 490x13mm for extruder + 2x 300x5mm for bed and x moto     |
+| Textile Cable Sleeve Set Prusa MK3 | [4,95€](http://lecktor.com/en/cables-connectors/122-textile-wrap-sleeve-set.html) | [2,62€](http://s.click.aliexpress.com/e/_dWuGrzU) + [2,54€](http://s.click.aliexpress.com/e/_d6W5PRg) | 1x 490x13mm for extruder + 2x 300x5mm for bed and x moto     |
 ###### Section Total: 54,45€
 
 
