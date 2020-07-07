@@ -85,7 +85,7 @@
 
 | Part                                                   | Quant. |  Total |                                                      Lecktor |                                                     Zaribo |                                                Fillment3d.pt | Notes                                 |
 | ------------------------------------------------------ | :----: | -----: | -----------------------------------------------------------: | ---------------------------------------------------------: | -----------------------------------------------------------: | ------------------------------------- |
-| M3x8mm socket  head screw (ISO 4762) | 4 | 0,36€ |  |  | [0,09€](https://fillment3d.pt/loja/produtos/ferragens/parafuso-cabeca-sextavada-aco-inox-din-912-a2-m3/) | 4x SKR box |
+| M3x8mm socket  head screw (ISO 4762) | 8 | 0,72€ |  |  | [0,09€](https://fillment3d.pt/loja/produtos/ferragens/parafuso-cabeca-sextavada-aco-inox-din-912-a2-m3/) | 4x SKR box |
 | M3x10mm socket  head screw (ISO 4762)                  |   17   | 1,36€ |                                                              |                                                            | [0,08€](https://fillment3d.pt/loja/produtos/ferragens/parafuso-cabeca-sextavada-aco-inox-din-912-a2-m3/) | 3x Y motor mount \|  14x for BearExxa |
 | M3x12mm socket  head screw (ISO 4762)                  |   8    | 0,80€ |                                                              |                                                            | [0,10€](https://fillment3d.pt/loja/produtos/ferragens/parafuso-cabeca-sextavada-aco-inox-din-912-a2-m3/) | 8x Z motor mount                      |
 | M3x16mm socket  head screw (ISO 4762)                  |   1    | 0,14€ |                                                              |                                                            | [0,14€](https://fillment3d.pt/loja/produtos/ferragens/parafuso-cabeca-sextavada-aco-inox-din-912-a2-m3/) | 1x PSU holder                         |
@@ -100,7 +100,7 @@
 | Dowel pin  (15.8x2.95mm)                               |   2    | 1,50€ | [0,75€](http://lecktor.com/en/pulleys/157-57-dowel-pin-for-3mm-bore.html#/43-diameter_dowel_pin-295_mm) |                                                            |                                                              | 1x Y idler \| 1x X idler              |
 | Spring (Center  4.9mm, 15mm- free & 10mm compressed)   |   1    | 0,95€ |                                                              | [3,80€](https://zaribo.com/home/47-extruder-springs.html) | [0,95€](https://fillment3d.pt/loja/produtos/ferragens/mola-4-8x15mm-forte/) | Extruder                              |
 
-###### Section Total: 12,75€
+###### Section Total: 13,83€
 
 
 # 7. Buildplates
@@ -135,5 +135,5 @@
 
 # Totals
 
-###### Best Parts Total:  730,88€
-###### Best Price Total:  624,26€
+###### Best Parts Total:  733,22€
+###### Best Price Total:  626,60€
